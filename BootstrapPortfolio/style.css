@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.utilityOne{
+    height: 70vh;
+    background-color: pink;
+}
+.mainContent{
+    display: flex;
+    justify-content: space-between;
+}
